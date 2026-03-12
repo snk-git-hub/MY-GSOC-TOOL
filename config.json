@@ -1,29 +1,29 @@
 {
   "student": {
-    "name": "Your Name",
-    "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "name": "Shivanandu K",
+    "bio": "Google Summer of Code 2026 Contributor | Open Source Developer",
+    "avatar": "https://github.com/snk-git-hub.png",
+    "github": "https://github.com/snk-git-hub",
+    "email": "shivanandu.dev@gmail.com",
+    "blog": "https://snk-git-hub.github.io",
+    "linkedin": "https://linkedin.com/in/shivanandu-snk"
   },
   "project": {
-    "title": "Your GSoC Project Title",
-    "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
+    "title": "Your Project Title Here",
+    "description": "I am working on enhancing system performance and modularity to improve scalability and the overall developer experience.",
+    "organization": "Your Organization Name",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/YourOrg/main-repo",
+      "https://github.com/snk-git-hub/gsoc-2026-work"
     ]
   },
   "slack": {
     "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
     "channels": [
       "general",
-      "gsoc-2024",
-      "your-project-channel"
+      "gsoc-2026",
+      "project-discussion"
     ]
   }
 }
