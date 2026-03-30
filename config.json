@@ -1,29 +1,38 @@
 {
   "student": {
     "name": "Shivanandu K",
-    "bio": "Google Summer of Code 2026 Contributor | Open Source Developer",
+    "bio": "Google Summer of Code 2026 Contributor | Final Year B.Tech CS @ Srinivas University | Full-Stack Developer | Open Source Contributor",
     "avatar": "https://github.com/snk-git-hub.png",
     "github": "https://github.com/snk-git-hub",
     "email": "shivanandu.dev@gmail.com",
-    "blog": "https://snk-git-hub.github.io",
+    "blog": "https://shivanandu-glow.lovable.app",
     "linkedin": "https://linkedin.com/in/shivanandu-snk"
   },
   "project": {
-    "title": "Your Project Title Here",
-    "description": "I am working on enhancing system performance and modularity to improve scalability and the overall developer experience.",
-    "organization": "Your Organization Name",
-    "timeline": "May 2026 - September 2026",
-    "repositories": [
-      "https://github.com/YourOrg/main-repo",
-      "https://github.com/snk-git-hub/gsoc-2026-work"
-    ]
+    "title": "BLT-Rewards: Gamified Security Contributions with BACON Tokens",
+    "description": "A complete security contribution gamification platform for OWASP BLT — featuring automated BACON token rewards via Solana & Bitcoin Runes, domain-specific achievement badges, severity-weighted leaderboards, a swag redemption marketplace, anti-gaming architecture, and an Education Bridge API. Built on Cloudflare Python Workers for sub-200ms global edge performance.",
+    "organization": "OWASP Bug Logging Tool (BLT)",
+    "timeline": "May 2026 - August 2026",
+    "repository": "https://github.com/snk-git-hub/GSOC-2026-owasp"
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
-    "channels": [
-      "general",
-      "gsoc-2026",
-      "project-discussion"
-    ]
-  }
+    "workspaceUrl": "https://owasp.slack.com",
+    "channels": ["general", "gsoc-2026", "blt-gsoc26-shivanandu"]
+  },
+  "mentors": [
+    {
+      "name": "DonnieBLT",
+      "email": "",
+      "avatar": "https://github.com/DonnieBLT.png",
+      "role": "Lead Mentor",
+      "github": "https://github.com/DonnieBLT"
+    },
+    {
+      "name": "Aryan Jain",
+      "email": "",
+      "avatar": "https://github.com/aryan.png",
+      "role": "Co-Mentor",
+      "github": "https://github.com/aryan"
+    }
+  ]
 }
